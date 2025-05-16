@@ -15,6 +15,5 @@ public class libros {
     private String editorial;
     private int fechapublicacion;
     private String autor;
-    private boolean stock;
 
 }
